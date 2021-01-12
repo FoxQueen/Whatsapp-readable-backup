@@ -1,0 +1,1 @@
+# Whatsapp-readable-backup
